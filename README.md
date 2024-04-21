@@ -77,13 +77,13 @@ datasets
 <details>
 <summary id="quickstartinstallation">环境配置</summary>
 
-* Step1. Setup your conda environment. ([What is Anaconda?](https://www.anaconda.com/download))
+* Step1. 创建新的conda环境. ([什么是Anaconda?](https://www.anaconda.com/download))
 ```sh
 conda create -n blsegnet python=3.10 -y
 conda activate blsegnet
 ```
 
-* Step2. Install BLSegNet from source.
+* Step2. 由源码安装BLSeget。
 ```sh
 git clone https://github.com/BestAnHongjun/BLSegNet.git
 cd BLSegNet
