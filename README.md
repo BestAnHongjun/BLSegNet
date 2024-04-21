@@ -86,6 +86,10 @@ conda activate blsegnet
 * Step2. 由源码安装BLSeget。
 ```sh
 git clone https://github.com/BestAnHongjun/BLSegNet.git
+
+# 国内用户使用Gitee
+git clone https://gitee.com/an_hongjun/BLSegNet.git
+
 cd BLSegNet
 pip install -e .
 ```
